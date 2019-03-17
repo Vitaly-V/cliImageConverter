@@ -4,3 +4,4 @@ version: 0.0.1
 
 dependencies:
   prompter_vvn: 0.0.1
+  image: 2.0.7
